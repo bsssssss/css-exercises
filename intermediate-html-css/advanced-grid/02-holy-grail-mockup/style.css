@@ -59,10 +59,10 @@
     gap: 25px;
 }
 
-/* .photo, */
-/* .side-content { */
-/*     align-self: center; */
-/* } */
+.photo,
+.side-content {
+    align-content: center;
+}
 
 .sidebar .photo {
     background-color: white;
