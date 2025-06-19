@@ -50,7 +50,7 @@
     list-style: none;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    gap: 50px;
+    gap: 1rem;
 }
 
 .sidebar {
@@ -89,7 +89,6 @@
 .nav ul {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 50px;
 }
 
 .nav ul li {
@@ -117,6 +116,7 @@
     background-color: #FFFFFF;
     color: black;
     text-align: center;
+    height: 200px;
 }
 
 .card p {
